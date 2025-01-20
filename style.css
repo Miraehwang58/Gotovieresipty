@@ -1,0 +1,21 @@
+html{
+    background-color:#A5A681;
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #d3b7d2;
+    padding: 0 20px 20px 20px;
+    border: 5px solid #d9dfd3;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #734B3d;
+  text-shadow: 3px 3px 10px rgb(161, 30, 255);
+}
+.imgg{
+  width:300px ;
+  height: 300px;
+}
